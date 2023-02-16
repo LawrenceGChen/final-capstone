@@ -1,7 +1,1 @@
-# Final Capstone
-
-This directory contains all of the starter projects for the final capstone. The React starter project works with the Java project with a single configuration update that you can read about in the README.
-
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
-
-Testing this change.
+This is the final capstone project that I worked on as a student at Merit America. I was one of 5 students on a scrum team, primarily working on the frontend, which was written using the React framework. The project is a brewery finder website, allowing customers to look at breweries and the beers they offer, as well as leave reviews on beers that they've tried. Brewers are able to manage the way their brewery is presented on the website, as well as list and describe the beers available at their breweries.
